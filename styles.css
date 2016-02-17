@@ -1,0 +1,112 @@
+body {
+  background-color: #EDEFED;
+  font-family: 'Raleway Dots', cursive;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  font-family: 'Raleway Dots', cursive;
+}
+
+h2 {
+  color: rgb(80,80,80);
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: rgb(80,80,80);
+}
+
+a:hover{
+  color:#AEDDF3;
+}
+
+td {
+  text-align: left;
+  padding: 15px;
+}
+
+ul li {
+  width: 50%;
+  margin: 0 auto;
+  display: inline;
+  padding: 20px;
+  font-size: 40px;
+}
+
+
+#header {
+  border-top: 20px;
+  padding-top: 25px;
+  background-color: #4286F5;
+}
+
+#contact {
+  border-radius: 8px;
+  font-size: 18px;
+  background-color: #AEDDF3;
+  border: none;
+  color: white;
+}
+
+#social {
+  background-color: #FBBE2F;
+  color: white;
+}
+
+#social a {
+  color: white;
+}
+
+#social a:hover {
+  color: #AEDDF3;
+}
+
+
+#photo_profil {
+  width: 170px;
+  height: 170px;
+  border-radius: 85px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+}
+
+
+#footer {
+  background-color: rgb(50,50,50);
+  color: #FFFFFF;
+  font-size: 9px;
+}
+
+
+#favorite {
+  display:inline;
+  padding: 20px;
+}
+
+.fav {
+  margin-right: 20px;
+  display:inline-block;
+  width : 40%;
+  color:rgb(80,80,80);
+}
+
+
+.fav_photo {
+   width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+.content {
+  margin: 20px;
+  background-color: #FFFFFF;
+  margin: 40px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+
